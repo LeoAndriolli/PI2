@@ -11,9 +11,11 @@ A Domótica é um conceito conhecido como "casa inteligente", ela pode ser defin
 
 O uso da "inteligência" em residências hoje em dia, se faz cada vez mais presente, e está cada vez mais se tornando algo acessível para todas as classes. Além de ser um excelente facilitador a nível de conforto, uma casa que utilize o conceito da domótica também se propõe a ajudar as pessoas nas necessidades mais básicas, o que pode ajudar até mesmo pessoas com alguma deficiência, já que o objetivo final da casa inteligente é simplificar a vida do habitante dentro do domicílio facilitando a sua interação com o ambiente.
 
+_(a completar)_
+
 ## Referências
 _(pendente)_
 
-_(pendente)
+_(pendente)_
 
-_(pendente)
+_(pendente)_
