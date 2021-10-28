@@ -13,5 +13,7 @@ O uso da "inteligência" em residências hoje em dia, se faz cada vez mais prese
 
 ## Referências
 (pendente)
+
 (pendente)
+
 (pendente)
