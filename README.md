@@ -1,4 +1,4 @@
-# PI2
+# Projeto Integrador II - Domótica
 Acesso rápido:
 -
 --
