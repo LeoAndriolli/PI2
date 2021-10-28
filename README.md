@@ -9,11 +9,11 @@ Este projeto é focado no desenvolvimento do tema Domótica, através da abordag
 ## Introdução
 A Domótica é um conceito conhecido como "casa inteligente", ela pode ser definida como um conjunto de serviços proporcionados por sistemas integrados, que tem o objetivo de satisfazer as necessidades básicas dos moradores de uma edificação: energia, comunicações, conforto e segurança.
 
-O uso da "inteligência" em residências hoje em dia, se faz cada vez mais presente, e está cada vez mais se tornando algo acessível para todas as classes. Além de ser um excelente facilitador a nível de conforto, uma casa que utilize o conceito da domótica também se propõe a ajudar as pessoas nas necessidades mais básicas, o que pode ajudar até mesmo pessoas com alguma deficiência, já que o objetivo final da casa inteligente é sempre facilitar e tornar as tarefas do dia-a-dia mais simples.
+O uso da "inteligência" em residências hoje em dia, se faz cada vez mais presente, e está cada vez mais se tornando algo acessível para todas as classes. Além de ser um excelente facilitador a nível de conforto, uma casa que utilize o conceito da domótica também se propõe a ajudar as pessoas nas necessidades mais básicas, o que pode ajudar até mesmo pessoas com alguma deficiência, já que o objetivo final da casa inteligente é simplificar a vida do habitante dentro do domicílio facilitando a sua interação com o ambiente.
 
 ## Referências
-(pendente)
+_(pendente)_
 
-(pendente)
+_(pendente)
 
-(pendente)
+_(pendente)
