@@ -1,6 +1,5 @@
 # Projeto Integrador II - Domótica
-Acesso rápido:
--
+Este projeto focado no desenvolvimento do tema Domótica, através da abordagem CDIO, que é dividida em quatro partes: Conceber, Projetar, Implementar e Operar.
 --
 - (pendente)
 - 
