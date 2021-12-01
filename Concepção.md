@@ -9,8 +9,8 @@ Acesso rápido:
 O projeto visa o desenvolvimento de um sistema de automação de tarefas rotineiras em residências, que atenda as necessidades do cliente, implementando todas as situações necessárias e estabelecendo um sistema automático de fácil utilização e manutenção, bem como trazer o conforto e a praticidade para moradores da residência.
 
 ## Materiais Utilizados
- - Controlador:
- Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino
+*Controlador:
+ ** Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino
 - Sensores:
 - Umidade e Temperatura DHT11
 _ Presença e Movimento PIR
