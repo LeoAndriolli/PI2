@@ -69,6 +69,5 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 </ul>
 
 ## Referências
-- https://semanaacademica.org.br/system/files/artigos/artigo_domotica.pdf
-- https://www.queroautomacao.com.br/como-construir-casa/
-_(a formatar)_
+- https://semanaacademica.org.br/system/files/artigos/artigo_domotica.pdf _(a formatar)_
+- https://www.queroautomacao.com.br/como-construir-casa/ _(a formatar)_
