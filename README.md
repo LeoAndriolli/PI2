@@ -15,6 +15,7 @@ O uso da "inteligência" em residências hoje em dia, se faz cada vez mais prese
 ## Referências
 DANTAS FILHO, Carlos Alberto. Et al. Domótica como auxílio para pessoas com deficiência e idosos. Revista Científica Multidisciplinar Núcleo do Conhecimento. Ano 06, Ed. 04, Vol. 02, pp. 118-131. Abril de 2021. ISSN: 2448-0959, Link de acesso: https://www.nucleodoconhecimento.com.br/educacao/domotica
 
-_(pendente)_
+Tonidandel, F., Takiuchi, M., Melo, E. Domótica Inteligente: Automação baseada em 
+comportamento. Congresso Brasileiro de Automática. (2004) 
 
-_(pendente)_
+Introdução a Domótica. Disponível em http://www.din.uem.br/ia/intelige/domotica/int.htm
