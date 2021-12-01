@@ -59,3 +59,13 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
       <li>Abrir janelas e fechar o gás em caso de vazamento </li>
     </ul>
   </li>
+<li>Visualização:
+    <ul>
+      <li>Interface para informar situação do sistema usando o display LCD</li>
+      <li>Padrões sonoros de alarme diferentes dependendo da situacão de risco</li>
+      <li>Mostrar estado do sistema usando a matriz de leds 8x8</li>
+    </ul>
+  </li>
+</ul>
+
+## Referências
