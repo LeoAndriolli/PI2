@@ -34,3 +34,6 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
   <li>Display LCD 16×2 I2C Backlight Azul</li>
   <li>Buzzer Passivo</li>
 </ul>
+
+## Objetivos e Tarefas do Projeto
+- Monitorar: Eventuais vazamentos de gás, intrusos indesejados na residência,
