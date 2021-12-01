@@ -12,14 +12,14 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
  - Controlador:
  Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino
 - Sensores:
-Umidade e Temperatura DHT11
-Presença e Movimento PIR
-Gás MQ-2 Inflamável e Fumaça
-Ultrasônico HC-SR04
+ Umidade e Temperatura DHT11
+ Presença e Movimento PIR
+ Gás MQ-2 Inflamável e Fumaça
+ Ultrasônico HC-SR04
 - Módulos:
-Sensor de Umidade/Nível Água Chuva
-Relé 5 V e um Canal
-Matriz de LED 8×8 com MAX7219
-Micro Servo SG92R 9g TowerPro
-Display LCD 16×2 I2C Backlight Azul
-Buzzer Passivo
+ Sensor de Umidade/Nível Água Chuva
+ Relé 5 V e um Canal
+ Matriz de LED 8×8 com MAX7219
+ Micro Servo SG92R 9g TowerPro
+ Display LCD 16×2 I2C Backlight Azul
+ Buzzer Passivo
