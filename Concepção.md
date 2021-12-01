@@ -14,8 +14,8 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 - Sensores:
  Umidade e Temperatura DHT11
  
- Presença e Movimento PIR
- Gás MQ-2 Inflamável e Fumaça
+ * Presença e Movimento PIR
+ ** Gás MQ-2 Inflamável e Fumaça
  Ultrasônico HC-SR04
 - Módulos:
  Sensor de Umidade/Nível Água Chuva
