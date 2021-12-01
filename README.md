@@ -12,8 +12,6 @@ O uso da "inteligência" em residências hoje em dia, se faz cada vez mais prese
 
 É um tema muito presente e relevante atualmente, onde a metodologia CDIO se aplica muito bem e consegue ajudar na realização de projetos na área, auxiliando em cada parte do desenvolvimento do projeto. Tendo em foco desde o conceito, até o desing e a implementação de sua aplicação, bem como observações de como a ficará a operação do sistema após sua instalação em residências.
 
-_(a completar)_
-
 ## Referências
 _(pendente)_
 
