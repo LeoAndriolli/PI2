@@ -13,6 +13,7 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
  Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino
 - Sensores:
  Umidade e Temperatura DHT11
+ 
  Presença e Movimento PIR
  Gás MQ-2 Inflamável e Fumaça
  Ultrasônico HC-SR04
