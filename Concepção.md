@@ -36,20 +36,6 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 </ul>
 
 ## Objetivos e Tarefas do Projeto
-- Monitorar: 
-- Eventuais vazamentos de gás 
-- Intrusos indesejados na residência (quando acionado alarme)
-- Luzes acessas em ambientes há muito deixados
-
-- Controlar:
-- Janelas para prevenção de acidentes com gás
-- Luzes da residência
-- Abertura e fechamento do gás
-
-- Ações:
-- Desligar luzes em ambientes desocupados
-- Acionamento de alarme em situações de risco
-- Abrir janelas e fechar o gás em caso de vazamento 
 
 <ul>
   <li>Monitorar:
