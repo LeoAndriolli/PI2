@@ -51,10 +51,25 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 - Acionamento de alarme em situações de risco
 - Abrir janelas e fechar o gás em caso de vazamento 
 
-<li>Monitorar:
+<ul>
+  <li>Monitorar:
     <ul>
       <li>Eventuais vazamentos de gás</li>
       <li>Intrusos indesejados na residência (quando acionado alarme)</li>
       <li>Luzes acessas em ambientes há muito deixados</li>
-      
-      
+    </ul>
+  </li>
+  <li>Controlar:
+      <ul>
+      <li>Janelas para prevenção de acidentes com gás</li>
+      <li>Luzes da residência</li>
+      <li>Abertura e fechamento do gás</li>
+    </ul>
+  </li>
+       <li>Ações:
+      <ul>
+      <li>Desligar luzes em ambientes desocupados</li>
+      <li>Acionamento de alarme em situações de risco</li>
+      <li>Abrir janelas e fechar o gás em caso de vazamento </li>
+    </ul>
+  </li>
