@@ -13,7 +13,7 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 <ul>
   <li>Monitorar:
     <ul>
-      <li>Eventuais vazamentos de gás</li>
+      <li>Eventuais vazamentos de gás: Quando detectado vazamento, algumas janelas específicas serão abertas para circulação de ar, além da abertura do gás ser interrompida e fechada.
       <li>Intrusos indesejados na residência (quando acionado alarme)</li>
       <li>Luzes acessas em ambientes há muito deixados</li>
     </ul>
