@@ -22,9 +22,11 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
   </li>
   <li>Controlar:
       <ul>
-      <li>Janelas para prevenção de acidentes com gás</li>
-      <li>Luzes da residência</li>
+      <li>Abertura de janelas para prevenção de acidentes com gás</li>
+      <li>Luzes da residência, tanto o acionamento quanto desligar</li>
       <li>Abertura e fechamento do gás</li>
+      <li>Abertura e fechamento do portão eletrônico a distância</li>
+      <li>Alarme sonoro, em diferentes situações indesejadas, como o vazamento de gás ou a invasão da casa por exemplo, irá ocorrer o acionamento do alarme, afim de alertar os moradores e/ou vizinhos.</li>
     </ul>
   </li>
 <li>Visualização:
