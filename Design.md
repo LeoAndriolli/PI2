@@ -6,4 +6,4 @@ Acesso rápido:
 - [Operação](https://github.com/LeoAndriolli/PI2)
 
 Nessa etapa, iremos desenvolver o design do projeto, desde o planejamento da maquete da residência em geral, bem como sua funcionalidade em cada ambiente e cômodo.
-Além da apresentação inicial do circuito que executára as ações por trás do projeto. 
+Além da apresentação inicial do circuito que executára as ações por trás do projeto. Sendo assim, poderemos visualizar tudo que foi planejado até a etapa atual com mais clareza, observando todos os componetes que serão utilizados e suas respectivas posições.
