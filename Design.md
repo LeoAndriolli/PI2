@@ -36,3 +36,12 @@ A imagem abaixo, mostra uma representação em simulação de como será a maque
 A imagem abaixo, mostra uma representação da planta baixa da residência.
 
 ![Plantabaixa](https://www.tudoconstrucao.com/wp-content/uploads/2015/03/Planta-baixa-de-casa-colorida.jpg)
+
+## Circuito Eletrônico
+A imagem abaixo, mostra uma representação do circuito eletrônico por trás da maquete.
+
+
+## Referências
+_a formatar_
+_a formatar_
+_a formatar_
