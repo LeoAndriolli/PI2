@@ -40,10 +40,3 @@ A imagem abaixo, mostra uma representação da planta baixa da residência.
 ## Circuito Eletrônico
 A imagem abaixo, mostra uma representação do circuito eletrônico por trás da maquete.
 
-
-## Referências
-_a formatar_
-
-_a formatar_
-
-_a formatar_
