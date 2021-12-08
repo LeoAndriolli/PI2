@@ -16,7 +16,7 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
       <li>Eventuais vazamentos de gás: Quando detectado vazamento, algumas janelas específicas serão abertas para circulação de ar, além da abertura do gás ser interrompida e fechada.
       <li>Intrusos indesejados na residência: Quando alarme acionado, no caso de deixar a casa sozinha, se for detectado presença de algum intruso externamente ou internamente, o alarme sonoro será acionado, e tocará ininterruptamente, afim de avisar vizinhos e demais pessoas do ocorrido.
       <li>Luzes acessas em ambientes há muito deixados: Nesse caso, cômodos da casa que estejam vazios a um determidado tempo, terão suas luzes apagadas, afim de economizar energia, e tirar a preocupação dos residentes da moradia quando sairem as pressas.
-       <li>Portão eletrônico: Possibilidade de abrir o portão externo da residência, de dentro da casa quanto tocado a campanhia e desejado se abrir o portão.
+       <li>Portão eletrônico: Possibilidade de abrir o portão externo da residência, de dentro da casa quanto tocado a campanhia e desejado se abrir o portão a distância.
     </ul>
   </li>
   <li>Controlar:
