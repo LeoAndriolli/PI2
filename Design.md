@@ -28,6 +28,11 @@ Quantidade  | Tecnologias
 2           |Resistor 10k Ω
 1           |Display LCD 16×2 I2C Backlight Azul
 ## Maquete Planejada
-A imagem abaixo, mostra uma representação em simulação de de como será a maquete da residência.
+A imagem abaixo, mostra uma representação em simulação de como será a maquete da residência.
 
 ![Simulçãomaquete](https://i.pinimg.com/originals/59/fc/fb/59fcfb14d5e716bfe3146bd01073c78e.jpg)
+
+## Planta Baixa da Maquete
+A imagem abaixo, mostra uma representação da planta baixa da residência.
+
+![Plantabaixa](https://www.tudoconstrucao.com/wp-content/uploads/2015/03/Planta-baixa-de-casa-colorida.jpg)
