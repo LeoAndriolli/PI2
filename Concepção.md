@@ -11,11 +11,11 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
 ## Objetivos e Tarefas do Projeto
 
 <ul>
-  <li>Monitorar:
+  <li>Tarefas e Ações:
     <ul>
       <li>Eventuais vazamentos de gás: Quando detectado vazamento, algumas janelas específicas serão abertas para circulação de ar, além da abertura do gás ser interrompida e fechada.
-      <li>Intrusos indesejados na residência (quando acionado alarme)</li>
-      <li>Luzes acessas em ambientes há muito deixados</li>
+      <li>Intrusos indesejados na residência: Quando alarme acionado, no caso de deixar a casa sozinha, se for detectado presença de algum intruso externamente ou internamente, o alarme sonoro será acionado, e tocará ininterruptamente, afim de avisar vizinhos e demais pessoas do ocorrido.
+      <li>Luzes acessas em ambientes há muito deixados: Nesse caso, cômodos da casa que estejam vazios a um determidado tempo, terão suas luzes apagadas, afim de economizar energia, e tirar a preocupação dos residentes da moradia quando sairem as pressas.</li>
     </ul>
   </li>
   <li>Controlar:
@@ -23,13 +23,6 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
       <li>Janelas para prevenção de acidentes com gás</li>
       <li>Luzes da residência</li>
       <li>Abertura e fechamento do gás</li>
-    </ul>
-  </li>
-       <li>Ações:
-      <ul>
-      <li>Desligar luzes em ambientes desocupados</li>
-      <li>Acionamento de alarme em situações de risco</li>
-      <li>Abrir janelas e fechar o gás em caso de vazamento </li>
     </ul>
   </li>
 <li>Visualização:
