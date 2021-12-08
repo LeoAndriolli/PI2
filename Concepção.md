@@ -18,6 +18,7 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
       <li>Luzes acessas em ambientes há muito deixados: Nesse caso, cômodos da casa que estejam vazios a um determidado tempo, terão suas luzes apagadas, afim de economizar energia, e tirar a preocupação dos residentes da moradia quando sairem as pressas.
        <li>Luzes acessas por presença: Cômodos da casa poderão ter suas luzes acessas automaticamente, quando detectado presença no ambiente, e quando desejado esse modo.
        <li>Portão eletrônico: Possibilidade de abrir o portão externo da residência, de dentro da casa quanto tocado a campanhia e desejado se abrir o portão a distância.
+       <li>Detectar fumaça: Nesse caso, janelas específicas serão abertas para evacuação dos residentes, e para a circulação do ar desejando impedir o acumulo de fumaça na casa, além do fechamento do gás de imediato para impedir eventuais acidentes, visto que nessa situação já haverá um possível início de incêndio na casa. Alarme sonoro também irá tocar para alertar a detecção da fumaça e da situação ocorrida.
     </ul>
   </li>
   <li>Controlar:
@@ -26,7 +27,7 @@ O projeto visa o desenvolvimento de um sistema de automação de tarefas rotinei
       <li>Luzes da residência, tanto o acionamento quanto desligar</li>
       <li>Abertura e fechamento do gás</li>
       <li>Abertura e fechamento do portão eletrônico a distância</li>
-      <li>Alarme sonoro, em diferentes situações indesejadas, como o vazamento de gás ou a invasão da casa por exemplo, irá ocorrer o acionamento do alarme, afim de alertar os moradores e/ou vizinhos.</li>
+      <li>Alarme sonoro, em diferentes situações indesejadas, como o vazamento de gás, detecção de fumaça ou a invasão da casa por exemplo, irá ocorrer o acionamento do alarme, afim de alertar os moradores e/ou vizinhos.</li>
     </ul>
   </li>
 <li>Visualização:
